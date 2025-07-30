@@ -1,0 +1,61 @@
+{
+  "name": "waterfall",
+  "type": "gemstone",
+  "positions": [
+    {
+      "x": 759,
+      "y": 150,
+      "z": 322,
+      "action": "VEIN"
+    },
+    {
+      "x": 746,
+      "y": 148,
+      "z": 322,
+      "action": "VEIN"
+    },
+    {
+      "x": 746,
+      "y": 135,
+      "z": 307,
+      "action": "VEIN"
+    },
+    {
+      "x": 749,
+      "y": 133,
+      "z": 322,
+      "action": "VEIN"
+    },
+    {
+      "x": 764,
+      "y": 136,
+      "z": 317,
+      "action": "VEIN"
+    },
+    {
+      "x": 760,
+      "y": 131,
+      "z": 308,
+      "action": "VEIN"
+    },
+    {
+      "x": 759,
+      "y": 137,
+      "z": 298,
+      "action": "VEIN"
+    },
+    {
+      "x": 754,
+      "y": 155,
+      "z": 296,
+      "action": "VEIN"
+    },
+    {
+      "x": 750,
+      "y": 145,
+      "z": 305,
+      "action": "VEIN"
+    }
+  ],
+  "targets": []
+}

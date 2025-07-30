@@ -1,0 +1,67 @@
+{
+  "name": "palace",
+  "type": "gemstone",
+  "positions": [
+    {
+      "x": 482,
+      "y": 79,
+      "z": 375,
+      "action": "VEIN"
+    },
+    {
+      "x": 486,
+      "y": 72,
+      "z": 393,
+      "action": "VEIN"
+    },
+    {
+      "x": 510,
+      "y": 74,
+      "z": 392,
+      "action": "VEIN"
+    },
+    {
+      "x": 487,
+      "y": 72,
+      "z": 364,
+      "action": "VEIN"
+    },
+    {
+      "x": 505,
+      "y": 70,
+      "z": 349,
+      "action": "VEIN"
+    },
+    {
+      "x": 505,
+      "y": 69,
+      "z": 357,
+      "action": "VEIN"
+    },
+    {
+      "x": 516,
+      "y": 70,
+      "z": 359,
+      "action": "VEIN"
+    },
+    {
+      "x": 523,
+      "y": 73,
+      "z": 370,
+      "action": "VEIN"
+    },
+    {
+      "x": 518,
+      "y": 90,
+      "z": 387,
+      "action": "VEIN"
+    },
+    {
+      "x": 487,
+      "y": 87,
+      "z": 350,
+      "action": "VEIN"
+    }
+  ],
+  "targets": []
+}
