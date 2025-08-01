@@ -1,5 +1,5 @@
-#Jasper Route
-##Genelate Fairy Grotto Routes!
+# Jasper Route
+## Genelate Fairy Grotto Routes!
 
 ## English
 
