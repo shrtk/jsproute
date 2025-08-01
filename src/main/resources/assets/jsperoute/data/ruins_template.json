@@ -1,0 +1,92 @@
+[
+  {
+    "x": 334,
+    "y": 84,
+    "z": 563,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 333,
+    "y": 83,
+    "z": 563,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 335,
+    "y": 85,
+    "z": 565,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 335,
+    "y": 86,
+    "z": 564,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 335,
+    "y": 84,
+    "z": 562,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 337,
+    "y": 84,
+    "z": 560,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 337,
+    "y": 85,
+    "z": 556,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 335,
+    "y": 84,
+    "z": 557,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 336,
+    "y": 86,
+    "z": 557,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 336,
+    "y": 87,
+    "z": 557,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 336,
+    "y": 88,
+    "z": 558,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 336,
+    "y": 90,
+    "z": 558,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 337,
+    "y": 91,
+    "z": 558,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 337,
+    "y": 91,
+    "z": 557,
+    "action": "stone_brick_stairs"
+  },
+  {
+    "x": 336,
+    "y": 92,
+    "z": 557,
+    "action": "stone_brick_stairs"
+  }
+]
