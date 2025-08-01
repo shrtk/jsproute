@@ -17,7 +17,7 @@ import java.util.Map;
 @Mod(modid = ModMain.MODID, version = ModMain.VERSION, clientSideOnly = true)
 public class ModMain {
     public static final String MODID = "jsperoute";
-    public static final String VERSION = "1.0.1";
+    public static final String VERSION = "1.0.2";
 
     public static final Map<String, RoomTemplate> TEMPLATES = new HashMap<>();
     public static final Map<String, RoomRoute> ROUTES = new HashMap<>();
