@@ -1,5 +1,5 @@
 # Jasper Route
-## Genelate Fairy Grotto Routes!
+Genelate Fairy Grotto Routes!
 
 ## English
 
@@ -20,6 +20,7 @@ Supported rooms
 使用方法
 
 1.サポートされたgrottoに入る
+
 2.scanキー(デフォルト:X)でスキャンした後、/copyrouteでクリップボードにコピーされるのでpolarなら/polarroutes import gemstone
 
 対応部屋
